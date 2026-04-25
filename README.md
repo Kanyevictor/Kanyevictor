@@ -1,6 +1,6 @@
 # Hi there 👋, I’m Victor
 
-I’m a Software & Network Systems Engineer focused on building secure, scalable, and production-ready systems. I enjoy working across backend engineering, infrastructure, and cloud-native DevOps—especially where systems meet real-world network and telecom challenges.
+I’m a Software & Network Systems Engineer focused on building secure, scalable, and production-ready systems. I enjoy working across backend engineering, infrastructure, and cloud-native DevOps especially where systems meet real-world network and telecom challenges.
 
 I care about building software that is not only functional, but reliable, observable, and easy to operate at scale.
 
