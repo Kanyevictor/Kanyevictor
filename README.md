@@ -17,9 +17,6 @@ A system designed to streamline field operations, contractor management, progres
 - **Network Anomaly Detection System**  
   Real-time system that detects unusual network traffic patterns using data-driven analysis.
 
-- **Sliver Orchestrator Integration**  
-  Built and integrated systems for managing distributed network operations and simulation environments.
-
 - **Transformerless Inverter System**  
   Designed and implemented a high-frequency power conversion system tested in real-world conditions.
 
